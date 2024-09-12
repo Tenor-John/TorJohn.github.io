@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tao Jiang / 个人学术网站"
+title                    : "Tao Jiang / Academic-website"
 title_separator          : "-"
 name                     : &name "Tao Jiang"
 description              : &description "personal description"
